@@ -1,0 +1,4 @@
+const CANVAS_WIDTH = 1024;
+const CANVAS_HEIGHT = 480;
+const ATOM_SIZE = 10;
+const INITIAL_ATOMS = 50;
